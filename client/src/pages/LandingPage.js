@@ -8,8 +8,7 @@ const LandingPage = () => (
   <div className="u-center-flex" style={{ overflow: "hidden" }}>
     <main className="welcome">
       <div className="welcome__logo">
-        <img src="/images/aliveberry.svg" />
-        <h1>Aliveberry</h1>
+    
       </div>
       <Link to="/signup" className="btn btn--signup">
         Signup
@@ -18,7 +17,7 @@ const LandingPage = () => (
         Login
       </Link>
       <a
-        href="https://github.com/garretteklof/aliveberry"
+        href="https://github.com/Missi3223/React-Book-Search"
         className="github"
         target="_blank"
       >
